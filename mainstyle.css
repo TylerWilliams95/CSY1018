@@ -1,0 +1,91 @@
+body {
+  background-color: white;
+  margin:0;
+  padding:0;
+  font-family: sans-serif;
+}
+header{
+  background: #;
+  width: 100%;
+  padding:40px 0;
+  color: lightblue;
+  text-align: center;
+  header align-items: center;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+nav ul{
+  background-color: #
+  overflow: hidden;
+  color: lightblue;
+  padding:0;
+  text-align: center;
+  margin:0
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 20px;
+
+}
+p {
+  text-align: center;
+  color: lightblue;
+  font-size: 35;
+
+}
+.banner {
+width: 100%;
+display: block;
+
+}
+.banner > banner-image {
+  width: 100%;
+  display: block;
+
+}
+.picright {
+  height: 260;
+  width: 250;
+  display: block;
+  margin: 0 auto;
+}
+
+.header1{
+color: lightblue;
+}
+
+
+input {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+color: lightblue;
+}
+
+textarea {
+width: 100%;
+padding: 12px 20px;
+margin: 8px
+lightblue;
+}
+footer {
+background-color: lightgrey;
+color: white;
+height:100px;
+display: block;
+
+
+}
+
+div {
+  position: absolute;
+     top: 10px;
+     right: 0;
+     width: 200px;
+     height:10px
+
+}
